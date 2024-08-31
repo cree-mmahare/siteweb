@@ -1,0 +1,340 @@
+/*
+Flaticon icon font: Flaticon
+Creation date: 16/06/2020 06:41
+*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon.eot");
+  src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon.eot#iefix") format("embedded-opentype"),
+       url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon.woff2") format("woff2"),
+       url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon.woff") format("woff"),
+       url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon.ttf") format("truetype"),
+       url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-bed:before { content: "\f100"; }
+.flaticon-bath:before { content: "\f101"; }
+.flaticon-ruler:before { content: "\f102"; }
+.flaticon-garage:before { content: "\f103"; }
+.flaticon-tax:before { content: "\f104"; }
+.flaticon-real-estate:before { content: "\f105"; }
+.flaticon-financial:before { content: "\f106"; }
+.flaticon-plant:before { content: "\f107"; }
+.flaticon-store:before { content: "\f108"; }
+.flaticon-work-space:before { content: "\f109"; }
+.flaticon-office-building:before { content: "\f10a"; }
+.flaticon-villa:before { content: "\f10b"; }
+.flaticon-hotel:before { content: "\f10c"; }
+
+/*Flaticon-custom*/
+
+@font-face {
+    font-family: "Flaticon-custom";
+    src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-custom.eot");
+    src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-custom.eot#iefix") format("embedded-opentype"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-custom.woff") format("woff"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-custom.ttf") format("truetype"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-custom.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon-custom";
+        src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-custom.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-custom-"]:before, [class*=" flaticon-custom-"]:before,
+[class^="flaticon-custom-"]:after, [class*=" flaticon-custom-"]:after {
+    font-family: Flaticon-custom;
+    font-style: normal;
+}
+
+.flaticon-custom-arrows:before { content: "\f100"; }
+.flaticon-custom-commerce:before { content: "\f101"; }
+.flaticon-custom-graphic:before { content: "\f102"; }
+.flaticon-custom-graphic-1:before { content: "\f103"; }
+.flaticon-custom-handshake:before { content: "\f104"; }
+.flaticon-custom-headphones:before { content: "\f105"; }
+.flaticon-custom-interface:before { content: "\f106"; }
+.flaticon-custom-layers:before { content: "\f107"; }
+.flaticon-custom-light-bulb:before { content: "\f108"; }
+.flaticon-custom-mail:before { content: "\f109"; }
+.flaticon-custom-share:before { content: "\f10a"; }
+.flaticon-custom-target:before { content: "\f10b"; }
+.flaticon-custom-text-on-paper-sheet-sketch:before { content: "\f10c"; }
+
+/*Flaticon-finance*/
+
+@font-face {
+    font-family: "Flaticon-finance";
+    src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-finance.eot");
+    src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-finance.eot#iefix") format("embedded-opentype"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-finance.woff") format("woff"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-finance.ttf") format("truetype"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-finance.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon-finance";
+        src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-finance.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-finance-"]:before, [class*=" flaticon-finance-"]:before,
+[class^="flaticon-finance-"]:after, [class*=" flaticon-finance-"]:after {
+    font-family: Flaticon-finance;
+    font-style: normal;
+}
+
+.flaticon-finance-money-1:before { content: "\f100"; }
+.flaticon-finance-avatar:before { content: "\f101"; }
+.flaticon-finance-open-book:before { content: "\f102"; }
+.flaticon-finance-chart:before { content: "\f103"; }
+.flaticon-finance-atomic:before { content: "\f104"; }
+.flaticon-finance-time:before { content: "\f105"; }
+.flaticon-finance-money:before { content: "\f106"; }
+.flaticon-finance-support:before { content: "\f107"; }
+.flaticon-finance-get-money:before { content: "\f108"; }
+.flaticon-finance-piggy-bank:before { content: "\f109"; }
+.flaticon-finance-rich:before { content: "\f10a"; }
+.flaticon-finance-notes:before { content: "\f10b"; }
+.flaticon-finance-graph:before { content: "\f10c"; }
+
+/*Flaticon-green*/
+
+@font-face {
+    font-family: "Flaticon-green";
+    src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-green.eot");
+    src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-green.eot#iefix") format("embedded-opentype"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-green.woff") format("woff"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-green.ttf") format("truetype"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-green.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon-green";
+        src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-green.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-green-"]:before, [class*=" flaticon-green-"]:before,
+[class^="flaticon-green-"]:after, [class*=" flaticon-green-"]:after {
+    font-family: Flaticon-green;
+    font-style: normal;
+}
+
+.flaticon-green-interface:before { content: "\f100"; }
+.flaticon-green-document:before { content: "\f101"; }
+.flaticon-green-book:before { content: "\f102"; }
+.flaticon-green-science:before { content: "\f103"; }
+.flaticon-green-transport:before { content: "\f104"; }
+.flaticon-green-diploma:before { content: "\f105"; }
+.flaticon-green-flasks:before { content: "\f106"; }
+.flaticon-green-college-graduation:before { content: "\f107"; }
+.flaticon-green-wallet:before { content: "\f108"; }
+.flaticon-green-secure-shield:before { content: "\f109"; }
+.flaticon-green-shipped:before { content: "\f10a"; }
+.flaticon-green-shopping-cart:before { content: "\f10b"; }
+.flaticon-green-headphone:before { content: "\f10c"; }
+.flaticon-green-internet:before { content: "\f10d"; }
+.flaticon-green-heart:before { content: "\f10e"; }
+.flaticon-green-profile:before { content: "\f10f"; }
+.flaticon-green-next:before { content: "\f110"; }
+
+/*Flaticon-green-2*/
+
+@font-face {
+    font-family: "Flaticon-green-2";
+    src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-green-2.eot");
+    src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-green-2.eot#iefix") format("embedded-opentype"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-green-2.woff") format("woff"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-green-2.ttf") format("truetype"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-green-2.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon-green-2";
+        src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-green-2.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-green-2-"]:before, [class*=" flaticon-green-2-"]:before,
+[class^="flaticon-green-2-"]:after, [class*=" flaticon-green-2-"]:after {
+    font-family: Flaticon-green-2;
+    font-style: normal;
+}
+
+.flaticon-green-2-chat:before { content: "\f100"; }
+.flaticon-green-2-business:before { content: "\f101"; }
+.flaticon-green-2-earth-globe:before { content: "\f102"; }
+.flaticon-green-2-avatar:before { content: "\f103"; }
+.flaticon-green-2-share:before { content: "\f104"; }
+.flaticon-green-2-users:before { content: "\f105"; }
+.flaticon-green-2-rake:before { content: "\f106"; }
+.flaticon-green-2-fax:before { content: "\f107"; }
+.flaticon-green-2-arroba:before { content: "\f108"; }
+.flaticon-green-2-placeholder:before { content: "\f109"; }
+.flaticon-green-2-telephone:before { content: "\f10a"; }
+.flaticon-green-2-fences:before { content: "\f10b"; }
+.flaticon-green-2-lawn-mower:before { content: "\f10c"; }
+.flaticon-green-2-watering-can:before { content: "\f10d"; }
+.flaticon-green-2-pruning-shears:before { content: "\f10e"; }
+.flaticon-green-2-grass:before { content: "\f10f"; }
+.flaticon-green-2-flower:before { content: "\f110"; }
+.flaticon-green-2-wheelbarrow:before { content: "\f111"; }
+.flaticon-green-2-clock-circular-outline:before { content: "\f112"; }
+.flaticon-green-2-nature:before { content: "\f113"; }
+.flaticon-green-2-call-answer:before { content: "\f114"; }
+.flaticon-green-2-envelope:before { content: "\f115"; }
+.flaticon-green-2-heart:before { content: "\f116"; }
+.flaticon-green-2-locked:before { content: "\f117"; }
+.flaticon-green-2-magnifying-glass-browser:before { content: "\f118"; }
+.flaticon-green-2-shopping-cart:before { content: "\f119"; }
+.flaticon-green-2-shopping-basket:before { content: "\f11a"; }
+
+/*Flaticon-sam*/
+
+@font-face {
+    font-family: "Flaticon-sam";
+    src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-sam.eot");
+    src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-sam.eot#iefix") format("embedded-opentype"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-sam.woff") format("woff"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-sam.ttf") format("truetype"),
+    url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-sam.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon-sam";
+        src: url("https://cree-mmahare.github.io/siteweb/wp-content/themes/greenova/assets/fonts/Flaticon-sam.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-sam-"]:before, [class*=" flaticon-sam-"]:before,
+[class^="flaticon-sam-"]:after, [class*=" flaticon-sam-"]:after {
+    font-family: Flaticon-sam;
+    font-style: normal;
+}
+
+.flaticon-sam-alarm-clock:before { content: "\f100"; }
+.flaticon-sam-archives:before { content: "\f101"; }
+.flaticon-sam-badge:before { content: "\f102"; }
+.flaticon-sam-basket:before { content: "\f103"; }
+.flaticon-sam-battery:before { content: "\f104"; }
+.flaticon-sam-briefcase:before { content: "\f105"; }
+.flaticon-sam-briefcase-1:before { content: "\f106"; }
+.flaticon-sam-browser:before { content: "\f107"; }
+.flaticon-sam-browser-1:before { content: "\f108"; }
+.flaticon-sam-browser-2:before { content: "\f109"; }
+.flaticon-sam-browser-3:before { content: "\f10a"; }
+.flaticon-sam-browser-4:before { content: "\f10b"; }
+.flaticon-sam-browser-5:before { content: "\f10c"; }
+.flaticon-sam-calculator:before { content: "\f10d"; }
+.flaticon-sam-calendar:before { content: "\f10e"; }
+.flaticon-sam-chair:before { content: "\f10f"; }
+.flaticon-sam-clock:before { content: "\f110"; }
+.flaticon-sam-cloud:before { content: "\f111"; }
+.flaticon-sam-cloud-computing:before { content: "\f112"; }
+.flaticon-sam-cloud-computing-1:before { content: "\f113"; }
+.flaticon-sam-coffee-cup:before { content: "\f114"; }
+.flaticon-sam-computer:before { content: "\f115"; }
+.flaticon-sam-earth-globe:before { content: "\f116"; }
+.flaticon-sam-earth-globe-1:before { content: "\f117"; }
+.flaticon-sam-earth-globe-2:before { content: "\f118"; }
+.flaticon-sam-eye:before { content: "\f119"; }
+.flaticon-sam-file:before { content: "\f11a"; }
+.flaticon-sam-file-1:before { content: "\f11b"; }
+.flaticon-sam-finances:before { content: "\f11c"; }
+.flaticon-sam-flag:before { content: "\f11d"; }
+.flaticon-sam-flask:before { content: "\f11e"; }
+.flaticon-sam-folder:before { content: "\f11f"; }
+.flaticon-sam-garbage:before { content: "\f120"; }
+.flaticon-sam-garbage-1:before { content: "\f121"; }
+.flaticon-sam-id-card:before { content: "\f122"; }
+.flaticon-sam-keyboard:before { content: "\f123"; }
+.flaticon-sam-laptop:before { content: "\f124"; }
+.flaticon-sam-laptop-1:before { content: "\f125"; }
+.flaticon-sam-laptop-2:before { content: "\f126"; }
+.flaticon-sam-levels:before { content: "\f127"; }
+.flaticon-sam-light-bulb:before { content: "\f128"; }
+.flaticon-sam-light-bulb-1:before { content: "\f129"; }
+.flaticon-sam-light-bulb-2:before { content: "\f12a"; }
+.flaticon-sam-line-chart:before { content: "\f12b"; }
+.flaticon-sam-list:before { content: "\f12c"; }
+.flaticon-sam-magnet:before { content: "\f12d"; }
+.flaticon-sam-magnifying-glass:before { content: "\f12e"; }
+.flaticon-sam-magnifying-glass-1:before { content: "\f12f"; }
+.flaticon-sam-magnifying-glass-2:before { content: "\f130"; }
+.flaticon-sam-mail:before { content: "\f131"; }
+.flaticon-sam-medal:before { content: "\f132"; }
+.flaticon-sam-medal-1:before { content: "\f133"; }
+.flaticon-sam-megaphone:before { content: "\f134"; }
+.flaticon-sam-mobile-phone:before { content: "\f135"; }
+.flaticon-sam-mouse:before { content: "\f136"; }
+.flaticon-sam-photo-camera:before { content: "\f137"; }
+.flaticon-sam-photo-camera-1:before { content: "\f138"; }
+.flaticon-sam-pie-chart:before { content: "\f139"; }
+.flaticon-sam-placeholder:before { content: "\f13a"; }
+.flaticon-sam-placeholder-1:before { content: "\f13b"; }
+.flaticon-sam-placeholder-2:before { content: "\f13c"; }
+.flaticon-sam-placeholder-3:before { content: "\f13d"; }
+.flaticon-sam-play-button:before { content: "\f13e"; }
+.flaticon-sam-play-video:before { content: "\f13f"; }
+.flaticon-sam-plug:before { content: "\f140"; }
+.flaticon-sam-printer:before { content: "\f141"; }
+.flaticon-sam-puzzle:before { content: "\f142"; }
+.flaticon-sam-rocket-launch:before { content: "\f143"; }
+.flaticon-sam-rocket-launch-1:before { content: "\f144"; }
+.flaticon-sam-router:before { content: "\f145"; }
+.flaticon-sam-safe-box:before { content: "\f146"; }
+.flaticon-sam-screen:before { content: "\f147"; }
+.flaticon-sam-seo-label:before { content: "\f148"; }
+.flaticon-sam-share:before { content: "\f149"; }
+.flaticon-sam-shopping-cart:before { content: "\f14a"; }
+.flaticon-sam-shopping-cart-1:before { content: "\f14b"; }
+.flaticon-sam-speech-bubble:before { content: "\f14c"; }
+.flaticon-sam-stats:before { content: "\f14d"; }
+.flaticon-sam-stats-1:before { content: "\f14e"; }
+.flaticon-sam-stick-man:before { content: "\f14f"; }
+.flaticon-sam-tag:before { content: "\f150"; }
+.flaticon-sam-target:before { content: "\f151"; }
+.flaticon-sam-trophy:before { content: "\f152"; }
+.flaticon-sam-truck:before { content: "\f153"; }
+.flaticon-sam-upload:before { content: "\f154"; }
+.flaticon-sam-webcam:before { content: "\f155"; }
